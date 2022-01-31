@@ -1,18 +1,18 @@
-# This is a sample Python script.
+print('\n??Mitä ihmettä??')
+haaveilija = "Lunta, lunta, lunta"
+haaveilija += ". Uriah heep"
+print(haaveilija)
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# kommentti vain
+# toinen kommentti vain hyvä se on
 
+calc_to_unit = 2
+print(calc_to_unit)
+calc_to_unit -= 1
+calc_to_unit += 10
 
-def printtaa_messu(name):
-    # Use hyvä a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+user_input = input()
+if user_input.isnumeric():
+    print("Numeroita tuli, kiitos")
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    printtaa_messu('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-# Mainos lopussa
-# Tämä mainos on peräisin Visual Studiosta
+# Mainos lopussa.

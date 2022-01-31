@@ -17,3 +17,4 @@ if user_input.isnumeric():
 
 # Mainos lopussa.
 # Tämä mainos tulee Visual Studio Codesta
+# Ja tämä

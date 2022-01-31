@@ -8,4 +8,4 @@ Visual Studio Code toistamiseen
 
 Koronarajoituksissa on porsaanreikiä, joita ihmiset ovat käyttäneet
 
-päästäkseen elämään kuten ennen rajoituksia.
+päästäkseen elämään kuten ennen rajoituksia...

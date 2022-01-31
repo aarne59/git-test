@@ -16,3 +16,4 @@ if user_input.isnumeric():
     print("Numeroita tuli, kiitos")
 
 # Mainos lopussa.
+# Tämä mainos tulee Visual Studio Codesta

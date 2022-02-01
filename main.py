@@ -1,4 +1,4 @@
-print('\n??Mitä ihmettä??')
+"""print('\n??Mitä ihmettä??')
 haaveilija = "Lunta, lunta, lunta"
 haaveilija += ". Uriah heep"
 print(haaveilija)
@@ -19,7 +19,11 @@ if user_input.isnumeric():
 # Tämä mainos tulee Visual Studio Codesta
 # Ja tämä
 # 01.02.2022
-# 01.02.2022 / 2
+# 01.02.2022 / 2 """
 
 my_list = ["00", "10", "20", "30", "40", "50"]
 print(my_list)
+
+import os
+
+print(os.name)

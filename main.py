@@ -20,3 +20,6 @@ if user_input.isnumeric():
 # Ja tämä
 # 01.02.2022
 # 01.02.2022 / 2
+
+my_list = ["00", "10", "20", "30", "40", "50"]
+print(my_list)

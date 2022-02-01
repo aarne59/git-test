@@ -19,3 +19,4 @@ if user_input.isnumeric():
 # Tämä mainos tulee Visual Studio Codesta
 # Ja tämä
 # 01.02.2022
+# 01.02.2022 / 2

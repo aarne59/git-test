@@ -29,4 +29,9 @@ from random import random
 
 print(os.name)
 
-a = int(12,21)
+
+print('*' * 20)
+
+ika = int(input('anna ikä '))
+ika += 1
+print(f"\nensivuonna ikä on {ika + 1}")

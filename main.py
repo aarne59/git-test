@@ -25,5 +25,8 @@ my_list = ["00", "10", "20", "30", "40", "50"]
 print(my_list)
 
 import os
+from random import random
 
 print(os.name)
+
+a = int(12,21)

@@ -33,16 +33,16 @@ print('*' * 20)
 
 ika = int(input('anna ikä '))
 ika += 1
-print(f"\nensivuonna ikä on {ika + 1}")"""
+print(f"\nensivuonna ikä on {ika + 1}")
 
-# print('x' * 5)
-"""matrix = [
+print('x' * 5)
+matrix = [
     [1, 2, 3],
     [4, 5, 6],
     [7, 8, 9]
 ]
 matrix[1][2] = 20
-print(matrix[1][2])"""
+print(matrix[1][2])
 
 a = [5, 2, 1, 7, 4]
 print(a)
@@ -50,3 +50,11 @@ a.pop()
 print(a)
 a.append('Nisse-2022')
 print(a)
+"""
+
+f = open("demofile.txt", "r")
+print(f.read())
+f.close()
+f = open("demofile.txt", "a")
+f.write("Kiitos ja näkemiin...")
+f.close
